@@ -1,0 +1,11 @@
+{
+  "injected-component": {
+    "component": "*",
+    "extensibility": "public"
+  },
+  "inject-into": {},
+  "inject-into.after-header": { "allowed": ["injected-component"] },
+  "inject-into.before-footer": { "allowed": ["injected-component"] },
+  "inject-into.after-product-title": { "allowed": ["injected-component"] },
+  "inject-into.after-product-description": { "allowed": ["injected-component"] }
+}

@@ -1,0 +1,12 @@
+{
+  "vendor": "gocommerce",
+  "name": "inject-into",
+  "version": "0.0.0",
+  "title": "Inject into store",
+  "description": "Inject components into compatible store themes",
+  "mustUpdateAt": "2019-10-24",
+  "builders": {
+    "store": "0.x"
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
