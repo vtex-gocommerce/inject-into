@@ -1,2 +1,2 @@
 # inject-into
-Allow inject components into compatible store themes
+Inject components into compatible store themes
